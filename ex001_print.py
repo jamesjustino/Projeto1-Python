@@ -1,5 +1,5 @@
 '''
---------------- PRIMEIROS COMANDOS DE UM PYTHON -------------------
+--------------- PRIMEIROS COMANDOS EM PYTHON -------------------
 '''
 print('====== Exercício 001 - print() ======')
 

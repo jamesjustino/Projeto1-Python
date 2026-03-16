@@ -9,5 +9,5 @@ n2 = int(input('Digite o segundo numero: '))
 soma = n1+n2
 print()
 
-print('A somea entre {} e {} é igual a {}'.format(n1,n2,soma))
+print('A soma entre {} e {} é igual a {}'.format(n1,n2,soma))
 print()

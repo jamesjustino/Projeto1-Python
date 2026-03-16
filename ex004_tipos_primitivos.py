@@ -1,8 +1,8 @@
 print('====== Desafio 004 - Tipo primitivo =====')
 print('Digite números para saber seu Tipo primitivo')
-n1 = int(input('Primeiro numero: '))
-n2 = float(input('Segundo numero: '))
-n3 = str(input('Terceiro numero: '))
+n1 = int(input('Primeiro numero: '))                # variável do tipo inteiro
+n2 = float(input('Segundo numero: '))               # variável do tipo float (ponto flutuante)
+n3 = str(input('Terceiro numero: '))                # variável do tipo string (texto)
 print()
 
 print("Primeiro numero: {}".format(type(n1)))
