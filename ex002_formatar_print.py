@@ -1,7 +1,7 @@
 print('====== Exercício 002 - formas de print ======')
+
 '''
 02) Faça um programa para receber um nome e mostre o nome na tela e algumas mensagens para o usuário.
-
 '''
 
 nome = input('Qual o seu nome? ')       # variável recebe informação do teclado
